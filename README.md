@@ -42,7 +42,7 @@ Drogon · FastAPI · TCP/JSON 프로토콜 설계 · 이벤트 기반 네트워�
 MFC · Qt · React
 
 **Database & Infrastructure**  
-MariaDB · SQLite · Redis · Docker · Linux (Ubuntu)
+MariaDB · SQLite · Redis · Docker · Linux  · window
 
 **AI / ML**  
 PyTorch · TensorFlow · KR-ELECTRA · Sentence-Transformers
