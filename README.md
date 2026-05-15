@@ -10,8 +10,7 @@ C/C++ · Linux 기반의 서버 구조 설계를 중심으로 학습하고 있�
 
 
 
-### 🌱 학습 중인 프로젝트
-- [**ServerApp**](링크) — C# 기반 서버 학습 (진행 중)
+
 
 ---
 
@@ -65,6 +64,11 @@ Git · GitHub
 | [**Factory**](https://github.com/rlahi1022-cloud/Factory) | CNN 기반 페트병 공정 모니터링 시스템 (팀 5인 · 팀장 / 메인 서버) | C/C++ · Python · MFC · MariaDB |
 | [**Newsoracle**](https://github.com/rlahi1022-cloud/Newsoracle) | 4중 앙상블 기반 뉴스 공식성 판별 파이프라인 (1인) | Python · FastAPI · KR-ELECTRA · Sentence-Transformers |
 | [**MonggleMongle**](https://github.com/rlahi1022-cloud/mongglemongle) | 이벤트 소싱 기반 글 변화 기록 플랫폼 (1인) | C++ · Drogon · React · MariaDB · Redis · JWT · Docker |
+
+---
+
+### 🌱 학습 중인 프로젝트
+- [**ServerApp**](링크) — C# 기반 서버 학습 (진행 중)
 
 ---
 
