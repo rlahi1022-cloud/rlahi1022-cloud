@@ -31,7 +31,6 @@ C/C++ · Linux 기반의 서버 구조 설계를 중심으로 학습하고 있�
 ---
 
 ## 🛠 기술 스택
-
 **Languages**  
 C · C++ · Python · C#
 
@@ -42,13 +41,13 @@ Drogon · FastAPI · TCP/JSON 프로토콜 설계 · 이벤트 기반 네트워�
 MFC · Qt · React
 
 **Database & Infrastructure**  
-MariaDB · SQLite · Redis · Docker · Linux  · window
+MariaDB · SQLite · Redis · Docker · Linux · Windows
 
 **AI / ML**  
 PyTorch · TensorFlow · KR-ELECTRA · Sentence-Transformers
 
 **Tools**  
-Git · GitHub · JWT
+Git · GitHub
 
 ---
 
